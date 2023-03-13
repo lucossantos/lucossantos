@@ -6,8 +6,8 @@
 
 ### BIO
 
-- 😶‍🌫️ 24 yo, from Brazil.
-- ✌️ Currently beginning my studies
+- 😶‍🌫️ 25 yo, from Brazil.
+- ✌️ 1/5 of my studies done
 - 🐍 For now I know a little bit of `.py`
 - 🔭 As I progress in my journey I'll be upgrading my profile
 
