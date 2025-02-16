@@ -6,8 +6,8 @@
 
 ### BIO
 
-- 😎 25 yo, from Brazil.
-- ✌️ 2/5 of my studies done
+- 😎 26 yo, from Brazil.
+- ✌️ 3/5 of my studies done
 - 🐍 For now I know a little bit of `.py` and `.sql`
 - 🔭 As I progress in my journey I'll be upgrading my profile
 
